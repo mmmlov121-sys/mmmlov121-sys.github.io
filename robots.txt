@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mmmlov121-sys.github.io/Journal-of-Goaltending-Studies/sitemap.xml
